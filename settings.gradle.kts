@@ -6,5 +6,5 @@ pluginManagement {
     }
     
 }
-rootProject.name = "desktop-compose-rxjava-retrofit"
+rootProject.name = "simple-desktop-compose-retrofit-rxjava"
 
